@@ -1,2 +1,2 @@
-email-scraper
-=============
+email scraper
+===========
